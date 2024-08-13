@@ -1,0 +1,14 @@
+C:\Users\jhonn\OneDrive\Área de Trabalho\controleClientes\bin\Debug\net8.0\controleClientes.exe
+C:\Users\jhonn\OneDrive\Área de Trabalho\controleClientes\bin\Debug\net8.0\controleClientes.deps.json
+C:\Users\jhonn\OneDrive\Área de Trabalho\controleClientes\bin\Debug\net8.0\controleClientes.runtimeconfig.json
+C:\Users\jhonn\OneDrive\Área de Trabalho\controleClientes\bin\Debug\net8.0\controleClientes.dll
+C:\Users\jhonn\OneDrive\Área de Trabalho\controleClientes\bin\Debug\net8.0\controleClientes.pdb
+C:\Users\jhonn\OneDrive\Área de Trabalho\controleClientes\obj\Debug\net8.0\controleClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonn\OneDrive\Área de Trabalho\controleClientes\obj\Debug\net8.0\controleClientes.AssemblyInfoInputs.cache
+C:\Users\jhonn\OneDrive\Área de Trabalho\controleClientes\obj\Debug\net8.0\controleClientes.AssemblyInfo.cs
+C:\Users\jhonn\OneDrive\Área de Trabalho\controleClientes\obj\Debug\net8.0\controleClientes.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\OneDrive\Área de Trabalho\controleClientes\obj\Debug\net8.0\controleClientes.dll
+C:\Users\jhonn\OneDrive\Área de Trabalho\controleClientes\obj\Debug\net8.0\refint\controleClientes.dll
+C:\Users\jhonn\OneDrive\Área de Trabalho\controleClientes\obj\Debug\net8.0\controleClientes.pdb
+C:\Users\jhonn\OneDrive\Área de Trabalho\controleClientes\obj\Debug\net8.0\controleClientes.genruntimeconfig.cache
+C:\Users\jhonn\OneDrive\Área de Trabalho\controleClientes\obj\Debug\net8.0\ref\controleClientes.dll
